@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "app_name": "Salesforce",
+    "category": "CRM and Sales",
+    "hint_url": "https://salesforce.com"
+  },
+  {
+    "id": 2,
+    "app_name": "HubSpot",
+    "category": "CRM and Sales",
+    "hint_url": "https://hubspot.com"
+  },
+  {
+    "id": 3,
+    "app_name": "Pipedrive",
+    "category": "CRM and Sales",
+    "hint_url": "https://pipedrive.com"
+  },
+  {
+    "id": 4,
+    "app_name": "Attio",
+    "category": "CRM and Sales",
+    "hint_url": "https://attio.com"
+  },
+  {
+    "id": 5,
+    "app_name": "Twenty",
+    "category": "CRM and Sales",
+    "hint_url": "https://twenty.com"
+  }
+]
